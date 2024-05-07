@@ -1,2 +1,9 @@
 heloo world
+<<<<<<< HEAD
 git tools
+=======
+
+git tool
+
+
+>>>>>>> 9aed67db44d46a8834e1074a875f7a2f92e4b315
