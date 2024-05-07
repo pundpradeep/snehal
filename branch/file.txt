@@ -1,5 +1,2 @@
 heloo world
-<<<<<<< HEAD
-=======
-git tool
->>>>>>> gtyy
+git tools
